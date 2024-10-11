@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+app/myapp/migrations/__pycache__/
+app/myapp/migrations/*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.vscode/
